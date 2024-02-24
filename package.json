@@ -1,0 +1,16 @@
+{
+  "name": "englishtofrench",
+  "version": "1.0.0",
+  "description": "This is project on translating english to french",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neeraj",
+  "license": "ISC",
+  "dependencies": {
+    "@iamtraction/google-translate": "^2.0.1",
+    "express": "^4.18.2",
+    "google-translate-api": "^2.3.0"
+  }
+}
